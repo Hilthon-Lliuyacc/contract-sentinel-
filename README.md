@@ -6,11 +6,19 @@ Desarrollado para el **Alura Agentic AI Challenge** por [Hilthon Lliuyacc León]
 
 ---
 ## 🌗 Personalización de interfaz
+<<<<<<< HEAD
+=======
 
 La aplicación permite alternar entre:
 - **Tema claro / oscuro** — botón en la barra lateral
 - **Idioma español / inglés** — tanto la interfaz como las respuestas del agente
 
+![Tema claro](screenshots/Captura%20de%20pantalla%202026-07-16%20180719.png)
+>>>>>>> 828c9fc (Actualizar README con sección de personalización de tema e idioma)
+
+La aplicación permite alternar entre:
+- **Tema claro / oscuro** — botón en la barra lateral
+- **Idioma español / inglés** — tanto la interfaz como las respuestas del agente
 ![Tema claro](screenshots/Captura%20de%20pantalla%202026-07-16%20180719.png)
 ---
 ## 📋 ¿Qué es Contract Sentinel?
