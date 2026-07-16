@@ -5,7 +5,14 @@
 Desarrollado para el **Alura Agentic AI Challenge** por [Hilthon Lliuyacc León](https://github.com/Hilthon-Lliuyacc).
 
 ---
+## 🌗 Personalización de interfaz
 
+La aplicación permite alternar entre:
+- **Tema claro / oscuro** — botón en la barra lateral
+- **Idioma español / inglés** — tanto la interfaz como las respuestas del agente
+
+![Tema claro](screenshots/Captura%20de%20pantalla%202026-07-16%20180719.png)
+---
 ## 📋 ¿Qué es Contract Sentinel?
 
 Contract Sentinel es un sistema de 7 agentes de IA que asiste en la gestión de contratos de proyectos EPC (Engineering, Procurement & Construction). Permite hacer **preguntas en lenguaje natural** sobre contratos, cláusulas, riesgos financieros y recomendaciones, mientras un motor de reglas independiente (**Circuit Breaker**) garantiza que ninguna acción financiera relevante se ejecute sin una validación humana.
