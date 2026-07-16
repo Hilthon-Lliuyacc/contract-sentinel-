@@ -1,0 +1,20 @@
+# Entorno virtual
+venv/
+
+# Variables de entorno - NUNCA subir al GitHub
+.env
+
+# Índice FAISS generado automáticamente
+faiss_index/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
